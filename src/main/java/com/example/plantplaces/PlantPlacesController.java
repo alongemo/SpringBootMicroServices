@@ -27,7 +27,7 @@ public class PlantPlacesController {
 	
 	@RequestMapping("/")
 	public String index() {
-		
+		/* */
 		
 		return "start";
 	}
